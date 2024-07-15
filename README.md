@@ -41,5 +41,5 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/real-time-facial-expression-recognition.git
+   git clone [https://github.com/aitichomo/Real-time-Facial-Expression-Recognition.git]
    cd real-time-facial-expression-recognition
