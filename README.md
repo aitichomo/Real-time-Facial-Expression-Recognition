@@ -36,6 +36,9 @@ To get started with the project, follow these steps:
 - NumPy
 - Matplotlib
 - Scikit-learn
+  
+### Data Set
+You can donwload data set from here  : https://www.kaggle.com/datasets/msambare/fer2013
 
 ### Installation
 
